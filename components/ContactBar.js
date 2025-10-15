@@ -16,7 +16,7 @@ export default function ContactBar() {
             <strong>Address:</strong> 53B Buena Vista Rdg, Marion, NC 28752
           </p>
           <p className="text-gray-600 mb-4">
-            <strong>Email:</strong> info@example.com
+            <strong>Email:</strong> susantucker@tuckerhomesrenovation.com
           </p>
           <p className="text-gray-600 mb-8">
             <strong>Phone:</strong> +1 (623) 265-4875

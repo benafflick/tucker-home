@@ -50,7 +50,7 @@ export default function Footer() {
         <div>
           <h3 className="text-md font-semibold mb-3">Contact</h3>
           <p className="text-sm">📍 53B Buena Vista Rdg, Marion, NC 28752</p>
-          <p className="text-sm">✉️ info@tuckerhomes.com</p>
+          <p className="text-sm">✉️ susantucker@tuckerhomesrenovation.com</p>
           <p className="text-sm">📞 +1 (623) 265-4875</p>
         </div>
       </div>

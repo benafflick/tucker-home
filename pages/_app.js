@@ -1,4 +1,3 @@
-// pages/_app.js
 import "../styles/globals.css";
 import { Urbanist } from "next/font/google";
 
